@@ -76,6 +76,6 @@ To quote [Scott Burns' README](https://docs.google.com/presentation/d/1PE2OmkVyk
 * As we have infinite routes of communication, I'll leave it to you to decide which one is right for the message you're sending. If you're going to be late in, a Slack message is fine. If you ill, drop it in an email. Anything serious, let's grab a coffee and speak in person ☕️
 
 ### Feedback
-* I give positive or constructive feedback in real time, and am conscious of where I am leaving it. Nothing in formal reviews should be a surprise.
-* I love receiving feedback about my own performance, but realize that it can be awkward to give it. Please feel free to speak directly to my manager, your coworkers, or even HR if you think there is something I can be doing to improve.
+* Nobody likes surprises, so I like to give constant feedback, which means reviews are quick and pain-free! 🙌
+* If you have feedback for me, don't worry, I can take it, I'm a real grown up (apart from when I'm surrounded with Lego!). If you can't tell me, speak to HR or my manager 🥺
 * If we're giving feedback, make is useful. The [feedback equation](https://larahogan.me/blog/feedback-equation/) is a great approach by Lara Hogan.
