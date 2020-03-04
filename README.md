@@ -1,7 +1,7 @@
 # Joe's README
 
 Everyone works differently. It takes time to learn how people like to work; what makes them tick; what annoys them; do you like quiet time, or prefer Spotify cranked up to 11?
-The idea for this README came from [Sophie Shepherd](https://github.com/sophshep) who I also "borrowed" the 1:1 template from ;)
+The idea for this README came from [Sophie Shepherd](https://github.com/sophshep) who I also "borrowed" the 1:1 template from 😉
 
 ## The TL;DR
 
@@ -33,7 +33,7 @@ If you are stuck, try and find the solution yourself first, and if you're still 
 
 **Not my Job, mate!** 
 
-If you see something is wrong, don't just walk on by. If you can fix it, do it; if you can't, raise it. You won't be shot for pointing out a problem :)
+If you see something is wrong, don't just walk on by. If you can fix it, do it; if you can't, raise it. You won't be shot for pointing out a problem 🤗
 
 **Be honest** 
 
@@ -56,12 +56,12 @@ We should all be working towards the same goal. If it isn't clear, speak up. Ask
 
 **Door is always open** 
 
-If you send me a message, through whatever channel, I'll answer it ASAP. I tend to work from quite early (my commute starts at 6am...), and also quite late (young family = never a quiet moment). If I don't answer straight away, it is for a good reason :) That being said, I will take breaks, so be assured the silence isn't personal!
-If I can asnwer a question, I will, and if I don't know, I'll say so and then find out.
+If you send me a message, through whatever channel, I'll answer it ASAP. I tend to work from quite early (my commute starts at 6am...), and also quite late (young family = never a quiet moment). If I don't answer straight away, it is for a good reason 😴 That being said, I will take breaks, so be assured the silence isn't personal!
+If I can answer a question, I will, and if I don't know, I'll say so and then find out.
 
 **We're in this together** 
 
-Don't be afraid of failing. You should know that you can push yourself and try new ideas. I don't like blame cultures, and I hope you don't either :)
+Don't be afraid of failing. You should know that you can push yourself and try new ideas. I don't like blame cultures, and I hope you don't either 🙂
 
 ## How I work for my direct reports
 
@@ -72,8 +72,8 @@ To quote [Scott Burns' README](https://docs.google.com/presentation/d/1PE2OmkVyk
 * If I think you should sit in on a meeting, I'll ask if you're available, and sometimes I might ask to join your meetings if I have an interest. I'm not checking up on you, I just like to 
 
 ### Communication
-* I don't want to smother you with check-ins. If you have something to let me know about, I trust you will :) If you'd prefer daily chats, let me know and we'll put a process in to make it work.
-* As we have infinite routes of communication, I'll leave it to you to decide which one is right for the message you're sending. If you're going to be late in, a Slack message is fine. If you ill, drop it in an email. Anything serious, let's grab a coffee and speak in person :)
+* I don't want to smother you with check-ins. If you have something to let me know about, I trust you will 🤞 If you'd prefer daily chats, let me know and we'll put a process in to make it work.
+* As we have infinite routes of communication, I'll leave it to you to decide which one is right for the message you're sending. If you're going to be late in, a Slack message is fine. If you ill, drop it in an email. Anything serious, let's grab a coffee and speak in person ☕️
 
 ### Feedback
 * I give positive or constructive feedback in real time, and am conscious of where I am leaving it. Nothing in formal reviews should be a surprise.
