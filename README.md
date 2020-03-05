@@ -73,7 +73,7 @@ To quote [Scott Burns' README](https://docs.google.com/presentation/d/1PE2OmkVyk
 
 ### Communication
 * I don't want to smother you with check-ins. If you have something to let me know about, I trust you will 🤞 If you'd prefer daily chats, let me know and we'll put a process in to make it work.
-* As we have infinite routes of communication, I'll leave it to you to decide which one is right for the message you're sending. If you're going to be late in, a Slack message is fine. If you ill, drop it in an email. Anything serious, let's grab a coffee and speak in person ☕️
+* As we have infinite routes of communication, I'll leave it to you to decide which one is right for the message you're sending. If you're going to be late in, a Slack message is fine. If you're ill, drop it in an email. Anything serious, let's grab a coffee and speak in person ☕️
 
 ### Feedback
 * Nobody likes surprises, so I like to give constant feedback, which means reviews are quick and pain-free! 🙌
