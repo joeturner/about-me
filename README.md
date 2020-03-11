@@ -68,8 +68,8 @@ Don't be afraid of failing. You should know that you can push yourself and try n
 To quote [Scott Burns' README](https://docs.google.com/presentation/d/1PE2OmkVykdZYF2QzmJ-ZUHqBAxnnsbnMsd19z3qLWNI/edit#slide=id.g326aa7ae8d_0_178), "I believe managers work **for** their direct reports". My job is to help you do your best work, and these are some ways I do that.
 
 ### Meetings
-* We'll sit down every week for 30 minutes and you'll have my full concentration. We can discuss life, career, projects and anything else that you'd like. To help make use of the time, I ask that you complete the 1:1 template for that week to help us keep on track.
-* If I think you should sit in on a meeting, I'll ask if you're available, and sometimes I might ask to join your meetings if I have an interest. I'm not checking up on you, I just like to 
+* We'll sit down every week for 30 minutes and you'll have my full concentration. We can discuss life, career, projects and anything else that you'd like. To help make use of the time, I ask that you to complete the 1:1 template for that week to help us keep on track.
+* If I think you should sit in on a meeting, I'll ask if you're available, and sometimes I might ask to join your meetings if I have an interest. I'm not checking up on you, I just like to see what the team is up to, and we should always be learning!
 
 ### Communication
 * I don't want to smother you with check-ins. If you have something to let me know about, I trust you will 🤞 If you'd prefer daily chats, let me know and we'll put a process in to make it work.
